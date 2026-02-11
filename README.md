@@ -1,2 +1,0 @@
-# certificatecourse
-college wala certificate
